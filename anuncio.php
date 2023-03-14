@@ -42,7 +42,7 @@
                 </li>
                 <li>
                     <img class="icono"  loading="lazy" src="build/img/icono_dormitorio.svg" alt="icono habitaciones">
-                    <p><?php echo $propiedad['habitaciones']; ?></p>
+                    <p><?php echo $propiedad['habitaciones'] ?></p>
                 </li>
             </ul>
 
